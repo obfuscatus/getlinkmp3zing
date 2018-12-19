@@ -1,0 +1,9 @@
+{
+  "name": "fudcma",
+  "description": "Get Link Album Mp3 Zing",
+  "author": "obfuscatus <im@tung.pro>",
+  "dependencies": {
+    "puppeteer": "^1.11.0",
+    "request": "^2.88.0"
+  }
+}
